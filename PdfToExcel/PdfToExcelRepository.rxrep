@@ -1,0 +1,1629 @@
+﻿<repository
+id="81b0464e-4e87-4930-b0cd-1f097838dbb0"
+name="PdfToExcelRepository">
+	<codegen
+	classname="PdfToExcelRepository"
+	namespace="PdfToExcel">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="207a2ed4-92f0-4780-8df2-67ee37351944"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="3f08abd0-220a-43cb-9187-f45e8cff738f"
+		isrooted="True"
+		name="ModernSterilizerPdfAdobeAcrobatPr"
+		refpath="/form[@title='Modern Sterilizer.pdf - Adobe Acrobat Pro DC (64-bit)']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="b6ae253e-6839-4bf8-8360-93e1cb8a681d"
+			name="ModernSterilizerReaderRightWindow"
+			refimgid="a6c6766d-69b8-4cb6-9f67-6f9a9458ff1d"
+			refpath="/form[@title>'Modern Sterilizer.pdf - Adobe']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='3']/element[@class='AVL_AVView' and @instance='0']/element/element[@class='AVL_AVView' and @instance='3']"
+			robustPath="/form[@title>'Modern Sterilizer.pdf - Adobe']//element[@instance='3']/element[@instance='0']/element[@class='AVL_AVView']/element[@instance='3']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Modern Sterilizer.pdf - Adobe']/element[@instance='1']/?/?/element[@instance='3']/element[@instance='0']/element[@class='AVL_AVView']/element[@instance='3']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="00bb0699-3ca9-41e5-9078-126584bc814a"
+			name="ModernSterilizerChooseFormatWindow"
+			refimgid="78e39979-f797-4873-a4af-33b6f010f945"
+			refpath="/form[@title>'Modern Sterilizer.pdf - Adobe']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='2']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView']"
+			robustPath="/form[@title>'Modern Sterilizer.pdf - Adobe']//element[@instance='2']/element[@instance='0']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Modern Sterilizer.pdf - Adobe']/element[@instance='1']/?/?/element[@instance='2']/element[@instance='0']/element[@class='AVL_AVView']
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="003d7a35-9a59-41d5-be4d-4e1f31f7d66b"
+			name="Close"
+			refimgid="b786c423-6333-48a4-bbb9-7345435bd615"
+			refpath="/form[@title>'Modern Sterilizer.pdf - Adobe']/titlebar/button[@accessiblename='Close']"
+			robustPath="/form[@title>'Modern Sterilizer.pdf - Adobe']/?/?/button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Modern Sterilizer.pdf - Adobe']/?/?/button[@accessiblename='Close']
+			</item>
+			<basepath>
+				/form[@title&gt;'Modern Sterilizer.pdf - Adobe']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEvSURBVDhPY4CB//wMAj9F2Z791FN+gBXL8L77
+qSUXDVWOCX5KcJ34euLo569fv/7Hhr+dOv7/pyT375/8DAlQLajgFz8DVo3IGGyILP8HoCEGUG0I
+QIwBIAwy5JcwyxOoNgRAN+D75nX/fymKgGlkcRAGqYVqQwB0A36Jc/z/vn832BBkcbAcMQb8jAv5
+/1NB+P9PfxcUcRAmyoAf1cX/f1rr//8Z7oMiDsLEucBK9//Xmzf+/xJj///TTOv/Lw3p/z9a6wgb
+8KOqGKz4lyw/WDNIHBYOIDGCBvwSZQMHHsj/ID7Y0P6O/7/kBf//CPclbMD35YvANv0oSIcbgI7x
+GkAMxmrATyGWL6BUhk0DMgYnZ6BaqDYEAKXvn6pi33962P7Hi5VFvmLNC+QBBgYAWQMiPDFQalUA
+AAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="18050514-7f4f-475b-9d17-ef51f0da8933"
+		isrooted="True"
+		name="Acrobat"
+		refpath="/form[@title='']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="3969e674-0d8e-40d1-a380-e7984b09e648"
+			name="Close"
+			refimgid="370e7bab-23b4-4a08-9698-a45e39e615d5"
+			refpath="/form[@title='']/titlebar/button[@accessiblename='Close']"
+			robustPath="/form[@title='']/?/?/button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@title='']/?/?/button[@accessiblename='Close']
+			</item>
+			<item
+			addcaps="button,wpfelement,wpfgroupelement"
+			capname="button"
+			id="7b8b9a0a-5ee1-4097-b15f-6412f2fba5b0"
+			name="ButtonYes"
+			refimgid="94535d21-9197-42f8-97b1-90c0e5f257f3"
+			refpath="/form[@title='']/container/container[@caption='']/button[@text='Yes']"
+			robustPath=".//button[@text='Yes']"
+			searchtimeout="30000ms">
+				/form[@title='']/container/?/?/button[@text='Yes']
+			</item>
+			<basepath>
+				/form[@title='']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEBSURBVDhPnZEhCMJAFIYfBsMMmi2aTVab0SIY
+F01aTWaL3WIVg11xxSIogsUyxLIiisFicMViOO8/eGPo23Q++Ni4//3/vbujaZZyjkUrJ0MqEdoD
+L80tWosNPwAvSQI4dDvq6d/VslQUdSYy4LZZGfPVmYk6ExlwmYxNCJB0JjJgW6sqFIIknYkM2NkN
+E3AcDkSdiT0CQK0rZbEHiAG4PBS+CMFr8H3gUsOBHwEwoRH1OJ/MEbx+T/l7Vy3yObMWfpkggJ8M
+jaj3s7vtZjAJenk9CICAHTgE/6zFEQRgTIwHc3iHb9DIIk8SfgFeKqTI/icEHnhJV1pT17QSoj2U
+fgH2BepxW6w8ggAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="f44867aa-3cc5-4aac-a753-4cc800d45882"
+		isrooted="True"
+		name="CDataSessionManager"
+		refpath="/form[@controlname='CDataSessionManager']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="titlebar,accessible"
+			capname="titlebar"
+			id="7aed40aa-e457-4a64-90bb-cb9e655f163d"
+			name="ValSuiteProSCADA"
+			refimgid="e0196229-0ec3-4192-b0a8-509257c57693"
+			refpath="/form[@controlname='CDataSessionManager']/titlebar[@accessiblerole='TitleBar']"
+			robustPath="/form[@controlname='CDataSessionManager']/titlebar[@accessiblerole='TitleBar']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/titlebar[@accessiblerole='TitleBar']
+			</item>
+			<item
+			addcaps="treeitem,accessible,accessibletreeitem"
+			capname="treeitem"
+			id="8ab7a60c-fc9f-4b3f-9d71-48324ab2e59c"
+			name="ISO17665ValidationReport"
+			refimgid="628067d2-1ec1-4211-a130-4b614301974c"
+			refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename>'ISO 17665 Validation Repo']"
+			robustPath="/form[@controlname='CDataSessionManager']//treeitem[@accessiblename>'ISO 17665 Validation Repo']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename&gt;'ISO 17665 Validation Repo']
+			</item>
+			<folder
+			capname="tree"
+			id="10bf180a-4e54-44b9-96d9-271c32608f5a"
+			isrooted="True"
+			name="SessionLeftContainer"
+			refimgid="646d930b-069b-4af7-8993-75c76def6532"
+			refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']/container[@controlname='splitContainerMain']/container[@controlname='panel1']/container[@controlname='splitContainerHeader']/container[@controlname='panel2']/tree[@controlname='treeView']/tree[@accessiblename='View Only']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="708b8859-2546-47ff-88d5-24d6cf355883"
+				name="TimeMarker1"
+				refimgid="baefb61b-3ed5-459f-899a-5ae71ea0c188"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename='Time Marker 1']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename='Time Marker 1']
+				</item>
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="1af033b7-eb1b-4240-b15b-5ba47ab1f2a5"
+				name="ISO17665ValidationReport"
+				refimgid="e4a2641a-de66-43ab-b721-81a6dde8e1e2"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename>'ISO 17665 Validation Repo']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename&gt;'ISO 17665 Validation Repo']
+				</item>
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="aed1b23b-8265-4ce3-9634-e2836ea524cd"
+				name="StartHoldingTime"
+				refimgid="6c511e42-d555-45da-bd27-79679103206b"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename='Start Holding Time ']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename='Start Holding Time ']
+				</item>
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="e7950684-33c3-42d8-a910-c00b36479219"
+				name="EndedHoldingTime1"
+				refimgid="95908628-a471-4d7d-923d-dd850a04e0e6"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename='Ended Holding Time 1']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename='Ended Holding Time 1']
+				</item>
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="05e2dcde-baf4-44b5-977f-6ad60790ca0a"
+				name="ValidationReport"
+				refimgid="311f92ec-2756-4f27-bd06-d3f670a39fc6"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename='Validation Report']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename='Validation Report']
+				</item>
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="7480aa16-c1e5-4be3-864b-1357197226b7"
+				name="EndedHoldingTime2"
+				refimgid="6852b9dd-e4f3-4d68-8c14-60acc32ee091"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem/treeitem[@accessiblename='Ended Holding Time 2']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']/treeitem[@accessiblename='Ended Holding Time 2']
+				</item>
+				<item
+				addcaps="treeitem,accessible,accessibletreeitem"
+				capname="treeitem"
+				id="b7921fff-ed27-4c1b-8872-ff927c04442c"
+				name="CUsersMraDocuments296OQTS00R6Mo"
+				refimgid="a488d599-034e-4a88-8c1c-248d36e19c4b"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem[@accessiblename>'C:\Users\mra\Documents\29.6']"
+				robustPath=".//treeitem[@accessiblename>'C:\Users\mra\Documents\29.6']"
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']
+				</item>
+				<basepath>
+					/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']
+				</basepath>
+			</folder>
+			<folder
+			capname="container"
+			id="cb24d9eb-b314-459c-a99d-187e29df6266"
+			isrooted="True"
+			name="ContainerNoOfDisplayedDecimals"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="cell,wpfelement,wpfgroupelement"
+				capname="cell"
+				id="0b76f8b0-c5f7-4c85-8f7b-3842e1b3ae36"
+				name="CellTemperature"
+				refimgid="e1720855-8acd-428d-812a-42d2f6779482"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container[@caption='']/container[2]/list[2]/container[1]/table[2]/row[@index='0']/list/cell[@text='4']"
+				robustPath="row[@index='0']/list/cell[@text='4']"
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[2]/container[1]/table[2]/row[@index='0']/list/cell[@text='4']
+				</item>
+				<item
+				addcaps="slider,wpfelement,wpfgroupelement"
+				capname="slider"
+				id="c5376125-3abe-462a-bf2c-ba712aa765cc"
+				name="SliderTemperature"
+				refimgid="fbeb614c-03e2-4993-ba9a-b15d694d18f0"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container[@caption='']/container[2]/list[2]/container[1]/table[2]/row[@index='0']/list/cell[@columnindex='1']/slider"
+				robustPath="list/cell[@columnindex='1']/slider"
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[2]/container[1]/table[2]/row[@index='0']/list/?/?/slider
+				</item>
+				<item
+				addcaps="slider,wpfelement,wpfgroupelement"
+				capname="slider"
+				id="6a368704-530d-4c94-9198-83ed9ebd6571"
+				name="SliderPressure"
+				refimgid="cf6b607b-f4ed-4a4b-a916-7c1eb2546ac3"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container[@caption='']/container[2]/list[2]/container[1]/table[2]/row[@index='1']/list/cell[@columnindex='1']/slider"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[2]/container[1]/table[2]/row[@index='1']/list/?/?/slider
+				</item>
+				<item
+				addcaps="text,wpfelement,wpfgroupelement"
+				capname="text"
+				id="f3af3de0-8379-4e75-b515-56dff0813593"
+				name="Apply"
+				refimgid="1b5aa81d-bd1c-469e-ba2a-12a60ae3325b"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[2]/button[4]/text[@caption='Apply']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[2]/?/?/text[@caption='Apply']
+				</item>
+				<item
+				addcaps="text,wpfelement,wpfgroupelement"
+				capname="text"
+				id="756426b1-cb20-45f5-bddf-97e65efba6d4"
+				name="Resolution"
+				refimgid="a3199dda-b19e-4b63-9649-596d3c359229"
+				refpath="/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[1]/button[2]/text[@caption='Resolution']"
+				robustPath="/form[@controlname='CDataSessionManager']//text[@caption='Resolution']"
+				searchtimeout="30000ms">
+					/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]/list[1]/?/?/text[@caption='Resolution']
+				</item>
+				<basepath>
+					/form[@controlname='CDataSessionManager']/element[@controlname='elementHost']/container/container[2]
+				</basepath>
+			</folder>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="8a9e82aa-4d31-4288-ba2d-33eea65caac6"
+			name="Tools"
+			refimgid="b58f1501-e762-4f18-a209-dfca3fa1cd6e"
+			refpath="/form[@controlname='CDataSessionManager']/menubar[@accessiblename='Application']/menuitem[@accessiblename='Tools']"
+			robustPath="?/menuitem[@accessiblename='Tools']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/?/?/menuitem[@accessiblename='Tools']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="6e691686-3a34-4b67-9696-fabb3c5fe1f8"
+			name="File"
+			refimgid="e00443d3-c6fe-4432-bb68-bcfd8e680cb6"
+			refpath="/form[@controlname='CDataSessionManager']/menubar[@accessiblename='Application']/menuitem[@accessiblename='File']"
+			robustPath="?/menuitem[@accessiblename='File']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/?/?/menuitem[@accessiblename='File']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="8db50684-1c4b-4b39-b2d1-e6d02e5508fa"
+			name="SessionAdd"
+			refimgid="b0a7045c-6bad-4cdd-90c8-516135b8178e"
+			refpath="/form[@controlname='CDataSessionManager']/menubar[@accessiblename='Application']/menuitem[@accessiblename='Session Add']"
+			robustPath="?/menuitem[@accessiblename='Session Add']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/?/?/menuitem[@accessiblename='Session Add']
+			</item>
+			<item
+			addcaps="treeitem,accessible,accessibletreeitem"
+			capname="treeitem"
+			id="5a6c28b0-f9f2-4e33-8e6e-4b24911465db"
+			name="CUsersMraDocuments296OQTS00R6Mo"
+			refimgid="e31071b5-6113-4cb0-bcb5-36447bbf2d34"
+			refpath="/form[@controlname='CDataSessionManager']/element[@controltypename='MdiClient']/form/container[@controlname='sessionTreeView']/container/container[@controlname='panel1']/container/container/tree/tree/treeitem[@accessiblename>'C:\Users\mra\Documents\29.6']"
+			robustPath=".//treeitem[@accessiblename>'C:\Users\mra\Documents\29.6']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/?/?/form[@controlname='SessionViewForm']/container[@controlname='sessionTreeView']//tree[@controlname='treeView']/tree[@accessiblename='View Only']/treeitem[@accessiblename&gt;'C:\Users\mra\Documents\29.6']
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="69be2872-7b97-423d-a30e-f82e5198aabd"
+			name="Close"
+			refimgid="958a6ac2-c451-4537-b497-e98b308333e5"
+			refpath="/form[@controlname='CDataSessionManager']/menubar[@accessiblename='Application']/button[@accessiblename='Close']"
+			robustPath="button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/menubar[@accessiblename='Application']/button[@accessiblename='Close']
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="e0318830-050e-4de3-8d63-b983478126ea"
+			name="PrintPreview"
+			refimgid="02230423-0d0d-4e0e-9376-9a86be1e3c30"
+			refpath="/form[@controlname='CDataSessionManager']/toolbar/toolbar/button[@accessiblename='Print Preview']"
+			robustPath=".//button[@accessiblename='Print Preview']"
+			searchtimeout="30000ms">
+				/form[@controlname='CDataSessionManager']/toolbar[@controlname='toolBar1']/?/?/button[@accessiblename='Print Preview']
+			</item>
+			<basepath>
+				/form[@controlname='CDataSessionManager']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKpSURBVDhPlZFvSBNxGMdvc7ebbWqZWpnLfzOn
+QzNbqM0S/xS+CCWCQtCQimpEL4LAeqGEqZAF/iMk1CAJZqIb6FVMWKYsIR0IRgSRE0YKRcIyI7Vt
+3567W46QXnTw4fnd83x/n/vdHaNm1HF6LurifkWk+b9R7TAxwmZX3HHMxJZhVncKMzGlmNn5D6JL
+aF4GVyzlad0XkzfC6Mg0FV2MxQ4Lfi1/g/tmF5wRR+GMPLaF6dRKeCdc+Doygdf0oO4oI08CjXki
+thSr7+YRCASw+t6NV5pCjG9iEutL9RF4Oi1ixreyiqmM0+iKOsgzySQYizDB02eThj9+YjzlJOzb
+CiRoo1Bnz9bBv75BGT88j2zUy0dbZI4keKYpwFS5ORgIwFVVh1FVHvhwQpWPyfxqbHi/I+D3Y8nq
+gD3hBEZp1qrJlgQ2sg1zRnjnPogCd68Vw8pDsHKHqRrxyeagPvBl0iX1lVK/RZ3FM4kkeKoywqLI
+xdydblGw8tGDwe0FGKDe9JVG+NY2sLbsxZipBhY2FwNBGsMzSSDXmJ+QtV+eA1tGhSgQjuqovIah
+lHLx3re2jufFtZQ5gMeEkBVo4DIkQR+bgx5ZFnrDsuCxO8XjLo6/wduOflHgHrKLsx55dgjK3+LS
+eUYrDzd3K7LxQGYgMjFUWCWewO/zwSd8VFpbi6rFWQgha8ANVicJOhWZaJeli3SoDPDOe6RXIRZe
+TKJTaUCbTL+Z+cN1NpVn4klwPywdrYyOSMNdJhULDieESxA81JcEZ1u5yiZJghaFDk1MMpqJJlmS
+KBA2ryx9RnNYijhrYpKCNcRlNpFndss5821FMhqYfZvc09JvPXMJ7fqiYE+Leqr1YtVu9i6wCTwT
+o1Sm1XB7B2vZeD7EHv4c8XdP6ktI6wpu1/nf4qoSnhTjx1oAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="74d1bc38-7e40-42b3-8de9-14768af3acb4"
+		isrooted="True"
+		name="ValidationPdfAdobeAcrobatProDC6"
+		refimgid="466c05e4-fc27-4722-a51d-b4fb53c9f77a"
+		refpath="/form[@title='Validation.pdf - Adobe Acrobat Pro DC (64-bit)']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="addcfdd0-c6b0-4a73-be56-c84b16cce01f"
+			name="ReaderRightWindow"
+			refimgid="4f4d5c86-d8e1-4e84-a317-4f5629e24520"
+			refpath="/form[@title>'Validation.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='3']/element[@class='AVL_AVView' and @instance='0']/element/element[@class='AVL_AVView' and @instance='3']"
+			robustPath="/form[@title>'Validation.pdf - Adobe Acrobat']//element[@instance='3']/element[@instance='0']/element[@class='AVL_AVView']/element[@instance='3']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Validation.pdf - Adobe Acrobat']/element[@instance='1']/?/?/element[@instance='3']/element[@instance='0']/element[@class='AVL_AVView']/element[@instance='3']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="c28226ff-cc15-48b4-ac62-497f9d0a997b"
+			name="ReaderChooseFormatWindow"
+			refimgid="6e42d81c-97a0-476a-93f1-838eff2a0938"
+			refpath="/form[@title>'Validation.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='2']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView']"
+			robustPath="/form[@title>'Validation.pdf - Adobe Acrobat']//element[@instance='2']/element[@instance='0']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Validation.pdf - Adobe Acrobat']/element[@instance='1']/?/?/element[@instance='2']/element[@instance='0']/element[@class='AVL_AVView']
+			</item>
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="1fcc84bb-2f0c-477b-b08e-07b790180f93"
+			name="RICHEDIT50W"
+			refimgid="5907a815-6418-455b-80e4-8f85e76c62c3"
+			refpath="/form[@title>'Validation.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='3']/element[@class='AVL_AVView' and @instance='0']/element/element[@class='AVL_AVView' and @instance='2']/text[@class='RICHEDIT50W']"
+			robustPath="/form[@title>'Validation.pdf - Adobe Acrobat']//text[@class='RICHEDIT50W']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Validation.pdf - Adobe Acrobat']/element[@instance='1']/?/?/element[@instance='3']//element[@instance='2']/text[@class='RICHEDIT50W']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="bf43c10c-0984-411a-9f72-b231bcaeb89f"
+			name="AVLAVView"
+			refimgid="b98ac529-2cfb-4cf1-98a6-67def23574e5"
+			refpath="/form[@title>'Validation.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='3']/element[@class='AVL_AVView' and @instance='0']/element/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView']"
+			robustPath="/form[@title>'Validation.pdf - Adobe Acrobat']//element[@instance='3']/element[@instance='0']/element[@class='AVL_AVView']/element[@instance='1']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Validation.pdf - Adobe Acrobat']/element[@instance='1']/?/?/element[@instance='3']//element[@instance='1']/element[@class='AVL_AVView']
+			</item>
+			<basepath>
+				/form[@title&gt;'Validation.pdf - Adobe Acrobat']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEvSURBVDhPY4CB//wMAj9F2Z791FN+gBXL8L77
+qSUXDVWOCX5KcJ34euLo569fv/7Hhr+dOv7/pyT375/8DAlQLajgFz8DVo3IGGyILP8HoCEGUG0I
+QIwBIAwy5JcwyxOoNgRAN+D75nX/fymKgGlkcRAGqYVqQwB0A36Jc/z/vn832BBkcbAcMQb8jAv5
+/1NB+P9PfxcUcRAmyoAf1cX/f1rr//8Z7oMiDsLEucBK9//Xmzf+/xJj///TTOv/Lw3p/z9a6wgb
+8KOqGKz4lyw/WDNIHBYOIDGCBvwSZQMHHsj/ID7Y0P6O/7/kBf//CPclbMD35YvANv0oSIcbgI7x
+GkAMxmrATyGWL6BUhk0DMgYnZ6BaqDYEAKXvn6pi33962P7Hi5VFvmLNC+QBBgYAWQMiPDFQalUA
+AAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="9ac8ac0d-3090-4dce-ad2a-e5fd912ba53b"
+		isrooted="True"
+		name="SaveAs"
+		refpath="/form[@title='Save As']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="d7c0032e-5c8c-493e-9df7-44f211f8d899"
+			name="ReaderChooseFolder"
+			refimgid="f6dc4fe4-e122-41b1-a127-7622a4fe6e55"
+			refpath="/form[@title='Save As']/element[@class='AVL_AVView']"
+			robustPath="/form[@title='Save As']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title='Save As']/element[@class='AVL_AVView']
+			</item>
+			<item
+			addcaps="treeitem"
+			capname="treeitem"
+			id="ccb64b58-3a4a-4a9e-866b-ecf9ef490dc3"
+			name="Documents"
+			refimgid="4f499d46-c3df-434a-b64a-6d6da8d4ce47"
+			refpath="/form[@title='Save As']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='0']/element/tree[@controlid='100']/treeitem[@text='Desktop']/treeitem[@text='This PC']/treeitem[@text='Documents']"
+			robustPath="/form[@title='Save As']//treeitem[@text='This PC']/treeitem[@text='Documents']"
+			searchtimeout="30000ms">
+				/form[@title='Save As']/element[@class='DUIViewWndClassName']/container/element[2]/?/?/tree[@controlid='100']/?/?/treeitem[@text='This PC']/treeitem[@text='Documents']
+			</item>
+			<item
+			addcaps="button,nativewindow"
+			capname="button"
+			id="5602ec9b-dbe6-486d-ab12-67c418441b47"
+			name="ButtonSave"
+			refimgid="0a75a836-1e8b-415b-9c3f-61422dc81933"
+			refpath="/form[@title='Save As']/button[@text='&amp;Save']"
+			robustPath="/form[@title='Save As']/button[@text='&amp;Save']"
+			searchtimeout="30000ms">
+				/form[@title='Save As']/button[@text='&amp;Save']
+			</item>
+			<basepath>
+				/form[@title='Save As']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEBSURBVDhPnZEhCMJAFIYfBsMMmi2aTVab0SIY
+F01aTWaL3WIVg11xxSIogsUyxLIiisFicMViOO8/eGPo23Q++Ni4//3/vbujaZZyjkUrJ0MqEdoD
+L80tWosNPwAvSQI4dDvq6d/VslQUdSYy4LZZGfPVmYk6ExlwmYxNCJB0JjJgW6sqFIIknYkM2NkN
+E3AcDkSdiT0CQK0rZbEHiAG4PBS+CMFr8H3gUsOBHwEwoRH1OJ/MEbx+T/l7Vy3yObMWfpkggJ8M
+jaj3s7vtZjAJenk9CICAHTgE/6zFEQRgTIwHc3iHb9DIIk8SfgFeKqTI/icEHnhJV1pT17QSoj2U
+fgH2BepxW6w8ggAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow,wpfwin32element,wpfelement,wpfgroupelement"
+		capname="form"
+		id="f3cea169-43b6-4998-b69d-d9b18fda0d82"
+		isrooted="True"
+		name="TilesContextMenuTilesMainViewModel"
+		refimgid="3a4126f1-db7a-42c2-a25c-d5cab2af0a13"
+		refpath="/form[@title='TilesContextMenu->TilesMainViewModel']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,wpfelement,wpfgroupelement"
+			capname="text"
+			id="34109071-65dd-41f3-804f-bec5e79969f0"
+			name="ViewReport"
+			refimgid="ef4f02e9-6de3-4686-9c85-d7128acdda6f"
+			refpath="/form[@title>'TilesContextMenu->TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/button[1]/text[@caption='View report']"
+			robustPath="/form[@title>'TilesContextMenu->TilesMa']//text[@caption='View report']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/?/?/text[@caption='View report']
+			</item>
+			<item
+			addcaps="text,wpfelement,wpfgroupelement"
+			capname="text"
+			id="fe244039-8f07-4f45-9414-4b24729153dc"
+			name="AddISO17665ValidationReport"
+			refimgid="c5815243-2b0a-446f-9ba3-f5bf750cb6b9"
+			refpath="/form[@title>'TilesContextMenu->TilesMa']/container[@automationid='ContentPresenter']/container/list[@automationid='AllItemContainer']/container[2]/listitem[@index='29']/listitem/button/text[@caption>'Add ISO 17665 Validation']"
+			robustPath=".//text[@caption>'Add ISO 17665 Validation']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/?/?/list[@automationid='AllItemContainer']/container[2]/listitem[@index='29']//text[@caption&gt;'Add ISO 17665 Validation']
+			</item>
+			<item
+			addcaps="text,wpfelement,wpfgroupelement"
+			capname="text"
+			id="11dc4986-16d0-49bb-8ca6-ad420640b512"
+			name="AddFDX140CombinedUncertainty"
+			refimgid="1c374164-36b3-4852-b2a5-8cf9af02bea6"
+			refpath="/form[@title='TilesContextMenu->TilesMainViewModel']/container[@automationid='ContentPresenter']/container[@caption='']/list[@automationid='AllItemContainer']/container[2]/listitem[@index='24']/listitem[@index='24']/button/text[@caption='Add FDX-140 Combined Uncertainty']"
+			robustPath=".//text[@caption>'Add FDX-140 Combined Unce']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/?/?/list[@automationid='AllItemContainer']/container[2]/listitem[@index='24']//text[@caption&gt;'Add FDX-140 Combined Unce']
+			</item>
+			<item
+			addcaps="text,wpfelement,wpfgroupelement"
+			capname="text"
+			id="1a7f7d78-20d9-4b4b-8349-a12f57a3a05c"
+			name="AddTimeMarker"
+			refimgid="df731a4c-f39a-433c-ab38-eeea07a2378c"
+			refpath="/form[@title>'TilesContextMenu->TilesMa']/container[@automationid='ContentPresenter']/container/list[@automationid='AllItemContainer']/container[2]/listitem[@index='42']/listitem/button/text[@caption='Add Time Marker']"
+			robustPath=".//text[@caption='Add Time Marker']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/?/?/list[@automationid='AllItemContainer']/container[2]/listitem[@index='42']//text[@caption='Add Time Marker']
+			</item>
+			<item
+			addcaps="text,wpfelement,wpfgroupelement"
+			capname="text"
+			id="f7631cb9-f136-4d12-9a2a-dd7772ec0ed5"
+			name="View"
+			refimgid="5446fee9-97d4-40d4-a4d9-87c1d82f3d3d"
+			refpath="/form[@title>'TilesContextMenu->TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/button[3]/text[@caption='View']"
+			robustPath=".//text[@caption='View']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/?/?/text[@caption='View']
+			</item>
+			<item
+			addcaps="text,wpfelement,wpfgroupelement"
+			capname="text"
+			id="bf71662b-ce8b-4d67-b4c2-be8935b07353"
+			name="Edit"
+			refimgid="51a264a5-8546-4ad8-afd0-f093cfb88ef7"
+			refpath="/form[@title>'TilesContextMenu->TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/button[2]/text[@caption='Edit']"
+			robustPath=".//text[@caption='Edit']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/?/?/text[@caption='Edit']
+			</item>
+			<item
+			addcaps="grip,wpfelement,wpfgroupelement"
+			capname="grip"
+			id="adce91fb-077a-443c-966a-175a919029a0"
+			name="SomeGrip"
+			refimgid="49588c19-25e5-468d-b27e-1ee73991686a"
+			refpath="/form[@title='TilesContextMenu->TilesMainViewModel']/container[@automationid='ContentPresenter']/container[@caption='']/list[@automationid='AllItemContainer']/scrollbar[@automationid='VerticalScrollBar']/slider[@automationid='PART_Track']/grip"
+			robustPath=".//grip"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']//list[@automationid='AllItemContainer']/scrollbar[@automationid='VerticalScrollBar']/?/?/grip
+			</item>
+			<item
+			addcaps="button,wpfelement,wpfgroupelement"
+			capname="button"
+			id="2aa63677-4568-4426-81e9-7e900f157277"
+			name="EditButton"
+			refimgid="12a3de43-e9a7-4d22-8097-76e646701f9e"
+			refpath="/form[@title>'TilesContextMenu->TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/button[2]"
+			robustPath="container[@caption='']/list[1]/button[2]"
+			searchtimeout="30000ms">
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']/container[@automationid='ContentPresenter']/container/list[1]/button[2]
+			</item>
+			<basepath>
+				/form[@title&gt;'TilesContextMenu-&gt;TilesMa']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKDSURBVDhPbZFZSFRhHMU/Ta9L7hpE5aRiSIu4
+L6nTjKZiPtZTRJHQQr1IUBCFG64kUiGJFgNG5pYNbqMyOYIaMsmYZfli6cMkZQiVaZiac/p/33Vu
+Gl74ce49/3P+3+Ve9nrPCVh2ZWAsIJ00HWOCzG3IEHORtUNdZg44jtHAbMxWNcBaosOItxYjXhrS
+bfA6hvcZVzGdW4lXe7PAu2zIPxUfrt+FzWYTjKdexqBnylY8uKphOXoetvV1kftU3YJhPy2YyUeD
+iXN5yoJ3OYXo35lEJAteCE3CgL8Wi5PTSu7tmVsw+WrA+nxSYArKJpNvBj63GmFwjUePe6KglzC4
+JuCL3qSUp4rr0ENen7carNsrGe1SDH5MTInh6s8ldPuq0UlLOinUQWo+eU0s5/OZ2lZ0SHHkJ6CL
+uuy5RyLapFiMXipSThi9UIBnzjHC71JlYuXbglgwN2AmT/Y5euqyZvc4NDpFocUzHsvz38WCr4MW
+NOyIwFPCqu8X3tLsHNp2aygbvUEUmt3jwZ64xuKxYyTqHSMwXlQjv8XaH7TsS0NvWo78TF/eoD5L
+uYhNRIJ3mc4lGo8cwgWNwenKb3qZW4J5y6S4n9Eb8dDhsJKzw7us1iUSNTR8wGFhmDO/EaWVhUWh
+a8u/Ua/S0PwQ5ThylivvsmrpCO5R8T7BdejmHdD3ll+dmKhrEv5m7FneZVXSQVSyAwpN2tOiyC+u
+uvAs8kO3ZOzwLquQwlDGQlDKglFO2nbqinL66q9llDuFinkZzUtFTs5yj3dZsRSKQrafUAmt8AuH
+RdeIj8ZhdFy8QV4gCjZm/8O7LN8txJonBSOf4CoThNuSSngC582zf+S7hVj/AkmkXzQoqNi0AAAA
+AElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="form"
+		id="c49c1bae-3bcf-4787-9643-d359947e137d"
+		isrooted="True"
+		name="ValidationReportForm"
+		refimgid="3832877a-833a-4a20-8e2c-35b82eeb83ce"
+		refpath="/form[@controlname='ValidationReportForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<folder
+			capname="tabpage"
+			id="086fdfba-1748-4379-a7a4-e92caad0c60a"
+			isrooted="True"
+			name="TabPageF0Calculation1"
+			refimgid="03666804-a87c-49aa-aec6-091e578c9c4a"
+			refpath="/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="05c69e02-06b6-4baa-a9f0-495945a24590"
+				name="UpDownEdit"
+				refimgid="68fab262-2866-40a2-a3e8-1c22b77823ae"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_setup']/container[@controlname='numericUpDownTRef']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']//text[@controltypename='UpDownEdit' and @instance='0' and @controltext='121,1100']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="b3aa0721-c90c-4f88-be4e-5ed1b88cb52c"
+				name="UpDownEdit1"
+				refimgid="c08c54ea-437b-4b4e-b9be-0c8d9ec12afb"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_setup']/container[@controlname='numericUpDownTStart']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']//text[@controltypename='UpDownEdit' and @instance='0' and @controltext='91,1100']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="921b0f01-0437-4fc1-b334-6e586f675329"
+				name="UpDownEdit2"
+				refimgid="de2b30b5-cf2f-4a26-9337-19f505144ce2"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_setup']/container[@controlname='numericUpDown_d0']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']//text[@controltypename='UpDownEdit' and @instance='0' and @controltext='1,00']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="1f2a3c5d-5f49-4356-a0b5-07382c1d35d2"
+				name="UpDownEdit3"
+				refimgid="625fe214-e434-4a60-8ddd-6efdc35de79c"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_pass_criteria']/container/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']//text[@controlname='upDownEdit']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="2a6d4970-b5ba-44af-a2ea-f5d9e454593e"
+				name="TextboxMinutes"
+				refimgid="2e0d5e21-6282-4cca-a0ef-59d23db33188"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBoxLethalitySaturatedSteam']/container/container/text[@controlname='textboxMinutes']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']//text[@controlname='textboxMinutes']
+				</item>
+				<basepath>
+					/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']
+				</basepath>
+			</folder>
+			<folder
+			capname="tabpage"
+			id="8af3e94c-69bf-4a5b-8fc9-4fdade8d5b8c"
+			isrooted="True"
+			name="TabPageF0Calculation"
+			refimgid="2a841849-863f-4910-8649-b4b30bbce7bb"
+			refpath="/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageF0Calculation']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="58c4a04f-cafa-4f27-9414-79796da52680"
+				name="CheckBoxUseD0"
+				refimgid="40295dba-c552-46e4-b207-016166628383"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_setup']/checkbox[@controlname='checkBox_use_d0']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/?/?/checkbox[@controlname='checkBox_use_d0']
+				</item>
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="08ad787b-b283-44f4-978b-e9af3b0a3819"
+				name="CheckBoxCalcLethalityForSaturatedSteam"
+				refimgid="309675f6-a2a9-4a09-9a77-0d14fee93982"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBoxLethalitySaturatedSteam']/checkbox[@controlname='checkBoxCalcLethalityForSaturatedSteam']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/?/?/checkbox[@controlname='checkBoxCalcLethalityForSaturatedSteam']
+				</item>
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="7884c0c3-0d27-4bad-b7c4-4041a68d0017"
+				name="CheckBoxUseMinSaturatedSteamDuration"
+				refimgid="4f805bc4-73af-445a-967b-57fbd37a57ad"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBoxLethalitySaturatedSteam']/checkbox[@controlname='checkBoxUseMinSaturatedSteamDuration']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/?/?/checkbox[@controlname='checkBoxUseMinSaturatedSteamDuration']
+				</item>
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="15bf9b52-2b5a-4553-8cb5-251f7f01b356"
+				name="CheckBoxUseF0MinF0Value"
+				refimgid="a223dd70-c3c8-4c8d-adf6-0a0d08491241"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_pass_criteria']/checkbox[@controlname='checkBox_use_f0_min_f0_value']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/?/?/checkbox[@controlname='checkBox_use_f0_min_f0_value']
+				</item>
+				<item
+				addcaps="radiobutton,control,nativewindow"
+				capname="radiobutton"
+				id="ee212aed-2d27-4984-a0af-3ee932285144"
+				name="RadioButtonF0InHoldingTime"
+				refimgid="1199bd94-21ea-4bcf-b540-effb4338ebda"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_report_setup']/radiobutton[@controlname='radioButton_F0_in_holding_time']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/?/?/radiobutton[@controlname='radioButton_F0_in_holding_time']
+				</item>
+				<item
+				addcaps="button,accessible"
+				capname="button"
+				id="ffd9e639-9c14-483e-b6d9-943746823fe8"
+				name="Open"
+				refimgid="56b9431e-f600-4ee2-b98a-5104253c2808"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/container[@controlname='groupBox_f0_setup']/combobox/button[@accessiblename='Open']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/?/?/combobox[@controlname='cbPredefined']/button[@accessiblename='Open']
+				</item>
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="d1fc20cd-98ae-4d01-b4b6-a5eeb3c3bb5d"
+				name="CheckBoxUseF0Calculation"
+				refimgid="30be432a-6066-4ead-af9f-20289a21a716"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/checkbox[@controlname='checkBox_use_f0_calculation']"
+				robustPath=".//checkbox[@controlname='checkBox_use_f0_calculation']"
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/checkbox[@controlname='checkBox_use_f0_calculation']
+				</item>
+				<basepath>
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']
+				</basepath>
+			</folder>
+			<folder
+			capname="tabpage"
+			id="8bcd43d0-e3f1-432a-9924-82deb88cd268"
+			isrooted="True"
+			name="TabPageSterilization"
+			refpath="/form[@controlname='ValidationReportForm']/tabpagelist[@controlname='tabControl1']/tabpage[@controlname='tabPageSterilization']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="c3167c9a-8d20-4538-b739-009a39786364"
+				name="CheckBoxMaxTempDifFirst60Sec"
+				refimgid="eb06c9a9-68f6-45fc-93a6-d4898d2843b5"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/checkbox[@controlname='checkBoxMaxTempDifFirst60Sec']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/checkbox[@controlname='checkBoxMaxTempDifFirst60Sec']
+				</item>
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="670cda53-f508-497c-b639-9e3f56c04e12"
+				name="CheckBoxUseSaturatedSteam"
+				refimgid="4d810c64-f154-47b5-812d-2df49404eeeb"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/checkbox[@controlname='checkBox_use_saturated_steam']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/checkbox[@controlname='checkBox_use_saturated_steam']
+				</item>
+				<item
+				addcaps="checkbox,accessible"
+				capname="checkbox"
+				id="9822200c-0def-465a-912b-3df6dc41ecbf"
+				name="LC2"
+				refimgid="c1ed3592-cdfc-40a7-a356-cfd211a20339"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='panelSensorsFirst60Sec']/list/list/checkbox[@accessiblename='LC 2']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/list[@controlname='checkedListBox60Sec']/?/?/checkbox[@accessiblename='LC 2']
+				</item>
+				<item
+				addcaps="checkbox,accessible"
+				capname="checkbox"
+				id="7ac05f20-9391-4ca7-9e92-bf01e032cda8"
+				name="LC3"
+				refimgid="e14362c1-a175-429b-83eb-c866d430a8df"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='panelSensorsFirst60Sec']/list/list/checkbox[@accessiblename='LC 3']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/list[@controlname='checkedListBox60Sec']/?/?/checkbox[@accessiblename='LC 3']
+				</item>
+				<item
+				addcaps="checkbox,accessible"
+				capname="checkbox"
+				id="b48d6398-2d81-4f94-acbc-4d250e7f1f12"
+				name="LA1"
+				refimgid="7355feed-05c9-432e-8966-32e2bdba24c7"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='panelSensorsFirst60Sec']/list/list/checkbox[@accessiblename='LA  1']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/list[@controlname='checkedListBox60Sec']/?/?/checkbox[@accessiblename='LA  1']
+				</item>
+				<item
+				addcaps="checkbox,accessible"
+				capname="checkbox"
+				id="3775c184-8c56-441d-9468-493bf7968d1d"
+				name="LA2"
+				refimgid="37a5efb6-3bd1-48c9-8628-5afef43db00a"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='panelSensorsFirst60Sec']/list/list/checkbox[@accessiblename='LA  2']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/list[@controlname='checkedListBox60Sec']/?/?/checkbox[@accessiblename='LA  2']
+				</item>
+				<item
+				addcaps="checkbox,control,nativewindow"
+				capname="checkbox"
+				id="837ff42b-bd9e-46d1-97cc-dfd472e9afa9"
+				name="CheckBoxUseMaxTemperatureDifference"
+				refimgid="5118e4c7-dbf7-4b4b-a142-8655732e1ccc"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/checkbox[@controlname='checkBox_use_max_temperature_difference']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/checkbox[@controlname='checkBox_use_max_temperature_difference']
+				</item>
+				<item
+				addcaps="checkbox,accessible"
+				capname="checkbox"
+				id="d0a3a69a-db2a-46fc-838a-6266e34c5535"
+				name="LA7"
+				refimgid="a65321dd-7dbe-4311-8b37-5d54afd9802c"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/list/list/checkbox[@accessiblename='LA  7']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/list[@controlname='checkedListBox_current_sensors']/?/?/checkbox[@accessiblename='LA  7']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="1fbc9f93-f814-40ac-83a8-7fefaba606f0"
+				name="ProcessTemperature"
+				refimgid="514a5b3f-e23e-4e9d-b954-bf36aae5155e"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='numericUpDown_min_sterilization_temperature']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/text[@controltypename='UpDownEdit' and @instance='0' and @controltext='121,0000']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="b94874d4-36a8-4331-9c9b-b7c27af5917f"
+				name="ProcessTemperatureBand"
+				refimgid="4e0cae7f-ea62-470b-b935-fa1d4ecdd414"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='numericUpDown_sterilization_temperature_band']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/text[@controltypename='UpDownEdit' and @instance='0' and @controltext='3,0000']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="b8e835dd-c316-4f40-955c-b875aa207792"
+				name="MaxTempDifFirst60Sec"
+				refimgid="0dd19896-1a70-41b0-868b-f0f8b9d51431"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='numericUpDownMaxTempDifFirst60Sec']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/text[@controltypename='UpDownEdit' and @instance='0' and @controltext='5,0000']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="524edf4a-4761-4e5b-a9da-640ca0bd9d31"
+				name="MaxEquilibrationTimeSeconds"
+				refimgid="48f107a6-dd28-4f35-8b76-c3dc140ab54b"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_max_equilibration_time']/container/text[@controlname='textboxSeconds']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_max_equilibration_time']/?/?/text[@controlname='textboxSeconds']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="fb856e8d-5f72-47a6-b37e-ea320281ef47"
+				name="MinimumHoldingTime"
+				refimgid="f11322d5-157c-4005-84b7-99f8511862f7"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_min_holding_time']/container/text[@controlname='textboxMinutes']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_min_holding_time']/?/?/text[@controlname='textboxMinutes']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="6525b74a-84f0-4988-b9c5-ea38c4d87315"
+				name="MaxEquilibrationTimeMinutes"
+				refimgid="31bdae36-44bc-45ed-8500-f927624825f5"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_max_equilibration_time']/container/text[@controlname='textboxMinutes']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_max_equilibration_time']/?/?/text[@controlname='textboxMinutes']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="e3a9593d-33e5-472f-9aa9-7213845c633c"
+				name="MaximumTemperatureDifference"
+				refimgid="762fdc54-0da8-4346-8236-0daf4c911427"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='numericUpDown_max_temperature_difference']/text[@controlname='upDownEdit']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/text[@controlname='upDownEdit']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="221eaef1-4cc5-420d-9c69-a4158c7d18b9"
+				name="MaximumHoldingTime"
+				refimgid="b8ea32da-f604-482b-97d5-c49997372329"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_max_holding_time']/container/text[@controlname='textboxMinutes']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/container[@controlname='timeSpanPicker_max_holding_time']/?/?/text[@controlname='textboxMinutes']
+				</item>
+				<item
+				addcaps="combobox,control,nativewindow"
+				capname="combobox"
+				id="ba241373-1cec-4197-8225-73a0908fa652"
+				name="ComboBoxHoldingTimeStart"
+				refimgid="4a5488bf-85df-4fd0-a6ac-270143cb273d"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='panelMinHoldingTime']/combobox[@controlname='comboBoxHoldingTimeStart']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/combobox[@controlname='comboBoxHoldingTimeStart']
+				</item>
+				<item
+				addcaps="combobox,control,nativewindow"
+				capname="combobox"
+				id="b219d164-098b-4507-98c0-7cc97d051c38"
+				name="ComboBoxHoldingTimeEnd"
+				refimgid="b0b0840f-d0ec-42f2-94ed-00f0e736e13e"
+				refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageSterilization']/container[@controlname='panelMinHoldingTime']/combobox[@controlname='comboBoxHoldingTimeEnd']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']/?/?/combobox[@controlname='comboBoxHoldingTimeEnd']
+				</item>
+				<basepath>
+					/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageSterilization']
+				</basepath>
+			</folder>
+			<item
+			addcaps="checkbox,control,nativewindow"
+			capname="checkbox"
+			id="975aca1c-a90a-4a92-b2e9-bddeb7167bde"
+			name="CheckBoxUseF0Calculation"
+			refimgid="bb4ae866-7342-475c-b3f0-9b86cec503d3"
+			refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@controlname='tabPageF0Calculation']/checkbox[@controlname='checkBox_use_f0_calculation']"
+			robustPath=".//checkbox[@controlname='checkBox_use_f0_calculation']"
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/?/?/tabpage[@controlname='tabPageF0Calculation']/checkbox[@controlname='checkBox_use_f0_calculation']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="c93b28a4-80f4-4aa7-9651-fbbf3af875ce"
+			name="ButtonSaveTemplate"
+			refimgid="f71afa26-fc5a-4cdb-b72e-d4e9722c2576"
+			refpath="/form[@controlname='ValidationReportForm']/button[@controlname='buttonSaveTemplate']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/button[@controlname='buttonSaveTemplate']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="cf732f5f-8d20-490f-b870-72cd7f2882e9"
+			name="ButtonCancel"
+			refimgid="e14a22c0-9f8f-4291-9398-00ec45d7e321"
+			refpath="/form[@controlname='ValidationReportForm']/button[@controlname='button_cancel']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/button[@controlname='button_cancel']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="8791e30b-138e-46f4-8725-f35d88d3cc61"
+			name="ButtonLoadTemplate"
+			refimgid="d181e72d-0550-4f87-b95b-28d6c1ac716d"
+			refpath="/form[@controlname='ValidationReportForm']/button[@controlname='buttonLoadTemplate']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/button[@controlname='buttonLoadTemplate']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="d0112499-83db-4ff5-a406-867150fd86f8"
+			name="ButtonOk"
+			refimgid="3aa98ed3-742b-4dad-ae7e-db8aea0d48cd"
+			refpath="/form[@controlname='ValidationReportForm']/button[@controlname='button_ok']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/button[@controlname='button_ok']
+			</item>
+			<item
+			addcaps="combobox,control,nativewindow"
+			capname="combobox"
+			id="02b03cb9-7d8f-4994-bd53-1596f7159382"
+			name="PreselectedTimestamps"
+			refimgid="a6b5fa5a-f83a-4eb5-a4af-87eda48975f1"
+			refpath="/form[@controlname='ValidationReportForm']/combobox[@controlname='comboBox_start_time']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/combobox[@controlname='comboBox_start_time']
+			</item>
+			<item
+			addcaps="tabpage,accessible"
+			capname="tabpage"
+			id="945b370c-26a0-4e67-8a24-bc6eaa3e1017"
+			name="LethalityCalculation"
+			refimgid="705a91ca-f962-4800-990f-b0bf8eb0dad1"
+			refpath="/form[@controlname='ValidationReportForm']/tabpagelist/tabpage[@accessiblename='Lethality Calculation']"
+			robustPath="?/tabpage[@accessiblename='Lethality Calculation']"
+			searchtimeout="30000ms">
+				/form[@controlname='ValidationReportForm']/?/?/tabpage[@accessiblename='Lethality Calculation']
+			</item>
+			<basepath>
+				/form[@controlname='ValidationReportForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAqlJREFUOE+VkW9IE3EYx29zt5ttaplamct/M6dDM1uozRL/FL4IJYJC
+0JCKakQvgsB6oYSpkAX+IyTUIAlmohvoVUxYpiwhHQhGBJETRgpFwjIjtW3fnrtbjpBedPDh+d3z
+fH+f+90do2bUcXou6uJ+RaT5v1HtMDHCZlfccczElmFWdwozMaWY2fkPoktoXgZXLOVp3ReTN8Lo
+yDQVXYzFDgt+LX+D+2YXnBFH4Yw8toXp1Ep4J1z4OjKB1/Sg7igjTwKNeSK2FKvv5hEIBLD63o1X
+mkKMb2IS60v1EXg6LWLGt7KKqYzT6Io6yDPJJBiLMMHTZ5OGP35iPOUk7NsKJGijUGfP1sG/vkEZ
+PzyPbNTLR1tkjiR4pinAVLk5GAjAVVWHUVUe+HBClY/J/GpseL8j4PdjyeqAPeEERmnWqsmWBDay
+DXNGeOc+iAJ3rxXDykOwcoepGvHJ5qA+8GXSJfWVUr9FncUziSR4qjLCosjF3J1uUbDy0YPB7QUY
+oN70lUb41jawtuzFmKkGFjYXA0EawzNJINeYn5C1X54DW0aFKBCO6qi8hqGUcvHet7aO58W1lDmA
+x4SQFWjgMiRBH5uDHlkWesOy4LE7xeMujr/B245+UeAesouzHnl2CMrf4tJ5RisPN3crsvFAZiAy
+MVRYJZ7A7/PBJ3xUWluLqsVZCCFrwA1WJwk6FZlol6WLdKgM8M57pFchFl5MolNpQJtMv5n5w3U2
+lWfiSXA/LB2tjI5Iw10mFQsOJ4RLEDzUlwRnW7nKJkmCFoUOTUwymokmWZIoEDavLH1Gc1iKOGti
+koI1xGU2kWd2yznzbUUyGph9m9zT0m89cwnt+qJgT4t6qvVi1W72LrAJPBOjVKbVcHsHa9l4PsQe
+/hzxd0/qS0jrCm7X+d/iqhKeFOPHWgAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="contextmenu"
+		id="9d9794c3-2fac-4720-be22-f577fe402dbd"
+		isrooted="True"
+		name="Valsuite"
+		refpath="/contextmenu[@processname='Valsuite']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="571543f9-09b0-4038-8fe2-2ecb55933277"
+			name="ControlCenter"
+			refimgid="4b93b58c-d1a2-4495-8241-860e16dd8b71"
+			refpath="/contextmenu[@processname='Valsuite']/contextmenu/menuitem[@accessiblename='Control Center']"
+			robustPath="?/?/menuitem[@accessiblename='Control Center']"
+			searchtimeout="30000ms">
+				/contextmenu[@processname='Valsuite']/?/?/menuitem[@accessiblename='Control Center']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="020421e4-f829-43b1-be2b-9dc4cbb32304"
+			name="OpenD7xFile"
+			refimgid="8db396a0-259e-46cd-a79b-4ee2387e8c58"
+			refpath="/contextmenu[@processname='Valsuite']/contextmenu/menuitem[@accessiblename='Open d7x File']"
+			robustPath="?/?/menuitem[@accessiblename='Open d7x File']"
+			searchtimeout="30000ms">
+				/contextmenu[@processname='Valsuite']/?/?/menuitem[@accessiblename='Open d7x File']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="83036467-831d-4a95-b5af-53933a344a20"
+			name="Report"
+			refimgid="0295f7c8-9187-4879-8f6f-849f0ad464e1"
+			refpath="/contextmenu[@processname='Valsuite' and @class='#32768' and @instance='0']/contextmenu/menuitem[@accessiblename='Report']"
+			robustPath="?/?/menuitem[@accessiblename='Report']"
+			searchtimeout="30000ms">
+				/contextmenu[@processname='Valsuite']/?/?/menuitem[@accessiblename='Report']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="d9bc2b65-d07d-4dfc-b3c0-23293f5334ed"
+			name="ISO17665Validation"
+			refimgid="89c515f3-70db-41cf-81e5-f266e4a7e1b2"
+			refpath="/contextmenu[@processname='Valsuite' and @class='#32768' and @instance='1']/contextmenu/menuitem[@accessiblename='ISO 17665 Validation']"
+			robustPath="?/?/menuitem[@accessiblename='ISO 17665 Validation']"
+			searchtimeout="30000ms">
+				/contextmenu[@processname='Valsuite']/?/?/menuitem[@accessiblename='ISO 17665 Validation']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="78a10878-bb8c-4641-8faf-89fcc60eecaf"
+			name="PrintPreview"
+			refimgid="13c98266-c286-4703-ad9b-f5d34805ef1c"
+			refpath="/contextmenu[@processname='Valsuite']/contextmenu/menuitem[@accessiblename='Print Preview']"
+			robustPath="?/?/menuitem[@accessiblename='Print Preview']"
+			searchtimeout="30000ms">
+				/contextmenu[@processname='Valsuite']/?/?/menuitem[@accessiblename='Print Preview']
+			</item>
+			<basepath>
+				/contextmenu[@processname='Valsuite']
+			</basepath>
+			<icon>
+				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
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="form"
+		id="d66913ec-68b4-43d1-ad98-592bd61552e1"
+		isrooted="True"
+		name="Open"
+		refpath="/form[@title='Open']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,uiautomation,uiautomationvalue"
+			capname="text"
+			id="1d015963-f59d-414d-bc9b-8542f5f44db6"
+			name="SystemItemNameDisplay"
+			refimgid="f7a5589f-5120-4f9f-a8d5-172e3f8ebdf6"
+			refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem[@automationid='0']/text[@automationid='System.ItemNameDisplay']"
+			robustPath=".//text[@automationid='System.ItemNameDisplay']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='0']/text[@automationid='System.ItemNameDisplay']
+			</item>
+			<item
+			addcaps="button,nativewindow"
+			capname="button"
+			id="7c1a5d5a-c7ef-45f7-994c-727c7a33e0e5"
+			name="ButtonOpen"
+			refimgid="22788af1-a6da-47ce-a14b-6a3df4dce673"
+			refpath="/form[@title='Open']/button[@text='&amp;Open']"
+			robustPath="button[@text='&amp;Open']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/button[@text='&amp;Open']
+			</item>
+			<item
+			addcaps="text,uiautomation,uiautomationvalue"
+			capname="text"
+			id="e6d9bc2c-789e-4ddb-a910-4145e38556b1"
+			name="SystemItemNameDisplay2"
+			refimgid="bc7bb869-f799-4068-8788-68d9632df724"
+			refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem[@automationid='1']/text[@automationid='System.ItemNameDisplay']"
+			robustPath=".//listitem[@automationid='1']/text[@automationid='System.ItemNameDisplay']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='1']/text[@automationid='System.ItemNameDisplay']
+			</item>
+			<item
+			addcaps="text,uiautomation,uiautomationvalue"
+			capname="text"
+			id="c630a8fe-a3c3-40ee-bbea-ca7a050c9f39"
+			name="SystemItemNameDisplay1"
+			refimgid="c8cb90f0-2d1b-443d-907b-cdc590d8c34e"
+			refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem[@automationid='2']/text[@automationid='System.ItemNameDisplay']"
+			robustPath=".//listitem[@automationid='2']/text[@automationid='System.ItemNameDisplay']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='2']/text[@automationid='System.ItemNameDisplay']
+			</item>
+			<basepath>
+				/form[@title='Open']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAoNJREFUOE9tkVlIVGEcxT9Nr0vuGkTlpGJIi7gvqdOMpmI+1lNEkdBC
+vUhQEIUbriRSIYkWA0bmlg1uozI5ghoyyZhl+WLpwyRlCJVpmJpz+n/fdW4aXvhx7j3/c/7f5V72
+es8JWHZlYCwgnTQdY4LMbcgQc5G1Q11mDjiO0cBszFY1wFqiw4i3FiNeGtJt8DqG9xlXMZ1biVd7
+s8C7bMg/FR+u34XNZhOMp17GoGfKVjy4qmE5eh629XWR+1TdgmE/LZjJR4OJc3nKgnc5hejfmUQk
+C14ITcKAvxaLk9NK7u2ZWzD5asD6fFJgCsomk28GPrcaYXCNR497oqCXMLgm4IvepJSniuvQQ16f
+txqs2ysZ7VIMfkxMieHqzyV0+6rRSUs6KdRBaj55TSzn85naVnRIceQnoIu67LlHItqkWIxeKlJO
+GL1QgGfOMcLvUmVi5duCWDA3YCZP9jl66rJm9zg0OkWhxTMey/PfxYKvgxY07IjAU8Kq7xfe0uwc
+2nZrKBu9QRSa3ePBnrjG4rFjJOodIzBeVCO/xdoftOxLQ29ajvxMX96gPku5iE1EgneZziUajxzC
+BY3B6cpveplbgnnLpLif0Rvx0OGwkrPDu6zWJRI1NHzAYWGYM78RpZWFRaFry79Rr9LQ/BDlOHKW
+K++yaukI7lHxPsF16OYd0PeWX52YqGsS/mbsWd5lVdJBVLIDCk3a06LIL6668CzyQ7dk7PAuq5DC
+UMZCUMqCUU7aduqKcvrqr2WUO4WKeRnNS0VOznKPd1mxFIpCtp9QCa3wC4dF14iPxmF0XLxBXiAK
+Nmb/w7ss3y3EmicFI5/gKhOE25JKeALnzbN/5LuFWP8CSaRfNCio2LQAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="form"
+		id="97a8bc64-4dd5-4fd8-92a1-54d3ab7c050b"
+		isrooted="True"
+		name="DBTemplateForm"
+		refimgid="68589f4f-4d1b-4121-a811-0eb9554462d8"
+		refpath="/form[@controlname='DBTemplateForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="f32bd899-fd51-404a-8da3-bd03f3537014"
+			name="TemplateName"
+			refimgid="79691103-509f-4547-b2af-47007c02c6a7"
+			refpath="/form[@controlname='DBTemplateForm']/combobox/text[@controlid='1001']"
+			robustPath="?/?/text[@controlid='1001']"
+			searchtimeout="30000ms">
+				/form[@controlname='DBTemplateForm']/?/?/text[@controlid='1001']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="4e4e9710-f8a7-4a02-9c29-8f67a696f646"
+			name="BtnOK"
+			refimgid="93269134-ab1b-4b3a-ae08-2772f56b57a5"
+			refpath="/form[@controlname='DBTemplateForm']/button[@controlname='btnOK']"
+			robustPath="button[@controlname='btnOK']"
+			searchtimeout="30000ms">
+				/form[@controlname='DBTemplateForm']/button[@controlname='btnOK']
+			</item>
+			<basepath>
+				/form[@controlname='DBTemplateForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAqlJREFUOE+VkW9IE3EYx29zt5ttaplamct/M6dDM1uozRL/FL4IJYJC
+0JCKakQvgsB6oYSpkAX+IyTUIAlmohvoVUxYpiwhHQhGBJETRgpFwjIjtW3fnrtbjpBedPDh+d3z
+fH+f+90do2bUcXou6uJ+RaT5v1HtMDHCZlfccczElmFWdwozMaWY2fkPoktoXgZXLOVp3ReTN8Lo
+yDQVXYzFDgt+LX+D+2YXnBFH4Yw8toXp1Ep4J1z4OjKB1/Sg7igjTwKNeSK2FKvv5hEIBLD63o1X
+mkKMb2IS60v1EXg6LWLGt7KKqYzT6Io6yDPJJBiLMMHTZ5OGP35iPOUk7NsKJGijUGfP1sG/vkEZ
+PzyPbNTLR1tkjiR4pinAVLk5GAjAVVWHUVUe+HBClY/J/GpseL8j4PdjyeqAPeEERmnWqsmWBDay
+DXNGeOc+iAJ3rxXDykOwcoepGvHJ5qA+8GXSJfWVUr9FncUziSR4qjLCosjF3J1uUbDy0YPB7QUY
+oN70lUb41jawtuzFmKkGFjYXA0EawzNJINeYn5C1X54DW0aFKBCO6qi8hqGUcvHet7aO58W1lDmA
+x4SQFWjgMiRBH5uDHlkWesOy4LE7xeMujr/B245+UeAesouzHnl2CMrf4tJ5RisPN3crsvFAZiAy
+MVRYJZ7A7/PBJ3xUWluLqsVZCCFrwA1WJwk6FZlol6WLdKgM8M57pFchFl5MolNpQJtMv5n5w3U2
+lWfiSXA/LB2tjI5Iw10mFQsOJ4RLEDzUlwRnW7nKJkmCFoUOTUwymokmWZIoEDavLH1Gc1iKOGti
+koI1xGU2kWd2yznzbUUyGph9m9zT0m89cwnt+qJgT4t6qvVi1W72LrAJPBOjVKbVcHsHa9l4PsQe
+/hzxd0/qS0jrCm7X+d/iqhKeFOPHWgAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="form"
+		id="2a2392dc-f034-48e0-9309-0b91cc4d8f3f"
+		isrooted="True"
+		name="ReportSettingsForm"
+		refpath="/form[@controlname='ReportSettingsForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="05b7cd9b-c66d-463e-9739-ecdb04af3a1f"
+			name="ButtonReportsSelectNone"
+			refimgid="5f15e16f-7e5a-44e1-a05b-985c071fdd9e"
+			refpath="/form[@controlname='ReportSettingsForm']/container/button[@controlname='buttonReportsSelectNone']"
+			robustPath="?/?/button[@controlname='buttonReportsSelectNone']"
+			searchtimeout="30000ms">
+				/form[@controlname='ReportSettingsForm']/?/?/button[@controlname='buttonReportsSelectNone']
+			</item>
+			<item
+			addcaps="cell,accessible"
+			capname="cell"
+			id="42f0795e-939a-41fb-b278-25a6fe6deb71"
+			name="ViewReportRow8"
+			refimgid="d033c4f7-5c99-4afd-a03e-1dcdd50f7017"
+			refpath="/form[@controlname='ReportSettingsForm']/container/table/row[@accessiblename='Row 8']/cell[@accessiblename='View report Row 8']"
+			robustPath=".//cell[@accessiblename='View report Row 8']"
+			searchtimeout="30000ms">
+				/form[@controlname='ReportSettingsForm']/?/?/table[@controlname='dataGridViewSelectedReports']/?/?/cell[@accessiblename='View report Row 8']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="4c0c47e3-a3af-4277-bace-092112ad1ea0"
+			name="BtnOk"
+			refimgid="87e42491-6689-4585-9daa-0219aaea8a83"
+			refpath="/form[@controlname='ReportSettingsForm']/container/button[@controlname='btnOk']"
+			robustPath="?/?/button[@controlname='btnOk']"
+			searchtimeout="30000ms">
+				/form[@controlname='ReportSettingsForm']/?/?/button[@controlname='btnOk']
+			</item>
+			<item
+			addcaps="cell,accessible"
+			capname="cell"
+			id="ae34e2a5-dbfd-4890-aa26-cb95b7d4a6ec"
+			name="ViewReportRow10"
+			refimgid="6eabeb57-d9ad-43a8-a1a4-3e992a33fb98"
+			refpath="/form[@controlname='ReportSettingsForm']/container/table/row[@accessiblename='Row 10']/cell[@accessiblename='View report Row 10']"
+			robustPath=".//cell[@accessiblename='View report Row 10']"
+			searchtimeout="30000ms">
+				/form[@controlname='ReportSettingsForm']/?/?/table[@controlname='dataGridViewSelectedReports']/?/?/cell[@accessiblename='View report Row 10']
+			</item>
+			<item
+			addcaps="cell,accessible"
+			capname="cell"
+			id="9100232d-3ab3-4e85-b749-eef4f1e3d6e3"
+			name="ViewReportRow9"
+			refimgid="52e94685-1cfb-492a-962e-73dab289194a"
+			refpath="/form[@controlname='ReportSettingsForm']/container/table/row[@accessiblename='Row 9']/cell[@accessiblename='View report Row 9']"
+			robustPath=".//cell[@accessiblename='View report Row 9']"
+			searchtimeout="30000ms">
+				/form[@controlname='ReportSettingsForm']/?/?/table[@controlname='dataGridViewSelectedReports']/?/?/cell[@accessiblename='View report Row 9']
+			</item>
+			<basepath>
+				/form[@controlname='ReportSettingsForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAqlJREFUOE+VkW9IE3EYx29zt5ttaplamct/M6dDM1uozRL/FL4IJYJC
+0JCKakQvgsB6oYSpkAX+IyTUIAlmohvoVUxYpiwhHQhGBJETRgpFwjIjtW3fnrtbjpBedPDh+d3z
+fH+f+90do2bUcXou6uJ+RaT5v1HtMDHCZlfccczElmFWdwozMaWY2fkPoktoXgZXLOVp3ReTN8Lo
+yDQVXYzFDgt+LX+D+2YXnBFH4Yw8toXp1Ep4J1z4OjKB1/Sg7igjTwKNeSK2FKvv5hEIBLD63o1X
+mkKMb2IS60v1EXg6LWLGt7KKqYzT6Io6yDPJJBiLMMHTZ5OGP35iPOUk7NsKJGijUGfP1sG/vkEZ
+PzyPbNTLR1tkjiR4pinAVLk5GAjAVVWHUVUe+HBClY/J/GpseL8j4PdjyeqAPeEERmnWqsmWBDay
+DXNGeOc+iAJ3rxXDykOwcoepGvHJ5qA+8GXSJfWVUr9FncUziSR4qjLCosjF3J1uUbDy0YPB7QUY
+oN70lUb41jawtuzFmKkGFjYXA0EawzNJINeYn5C1X54DW0aFKBCO6qi8hqGUcvHet7aO58W1lDmA
+x4SQFWjgMiRBH5uDHlkWesOy4LE7xeMujr/B245+UeAesouzHnl2CMrf4tJ5RisPN3crsvFAZiAy
+MVRYJZ7A7/PBJ3xUWluLqsVZCCFrwA1WJwk6FZlol6WLdKgM8M57pFchFl5MolNpQJtMv5n5w3U2
+lWfiSXA/LB2tjI5Iw10mFQsOJ4RLEDzUlwRnW7nKJkmCFoUOTUwymokmWZIoEDavLH1Gc1iKOGti
+koI1xGU2kWd2yznzbUUyGph9m9zT0m89cwnt+qJgT4t6qvVi1W72LrAJPBOjVKbVcHsHa9l4PsQe
+/hzxd0/qS0jrCm7X+d/iqhKeFOPHWgAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="form"
+		id="92248b61-9751-4ad6-9633-e18885e233cd"
+		isrooted="True"
+		name="TimeMarkerForm"
+		refimgid="d5510222-59eb-496f-8bdd-53dba0815529"
+		refpath="/form[@controlname='TimeMarkerForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="97963684-1de4-4a12-8c3e-5e21b7e8546c"
+			name="BtnOk"
+			refimgid="50ed68ae-6f9d-43fe-9da5-58f7bc9140cd"
+			refpath="/form[@controlname='TimeMarkerForm']/button[@controlname='btnOk']"
+			robustPath="button[@controlname='btnOk']"
+			searchtimeout="30000ms">
+				/form[@controlname='TimeMarkerForm']/button[@controlname='btnOk']
+			</item>
+			<folder
+			capname="container"
+			id="faf0b74f-899f-4d73-9940-8ae6c4e01a9f"
+			isrooted="True"
+			name="GetSingleTimeControl1"
+			refpath="/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="5360c2f1-1ba8-4207-9cd9-855e30e985eb"
+				name="TextboxHours"
+				refimgid="e2152864-bf48-44f2-b636-ac5042271b47"
+				refpath="/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']/container/container/text[@controlname='textboxHours']"
+				robustPath="text[@controlname='textboxHours']"
+				searchtimeout="30000ms">
+					/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']//text[@controlname='textboxHours']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="b22126db-81e0-4ec9-abf2-0e9331a09f7c"
+				name="TextboxMinutes"
+				refimgid="0224575b-2254-48c3-8626-1f61edd745e5"
+				refpath="/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']/container/container/text[@controlname='textboxMinutes']"
+				robustPath="text[@controlname='textboxMinutes']"
+				searchtimeout="30000ms">
+					/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']//text[@controlname='textboxMinutes']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="31edb296-8da4-4b1f-ad1f-adab455ff600"
+				name="TextboxSeconds"
+				refimgid="09810bf2-6d8d-4ca7-9a61-234ecb153396"
+				refpath="/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']/container/container/text[@controlname='textboxSeconds']"
+				robustPath="text[@controlname='textboxSeconds']"
+				searchtimeout="30000ms">
+					/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']//text[@controlname='textboxSeconds']
+				</item>
+				<basepath>
+					/form[@controlname='TimeMarkerForm']/container[@controlname='getSingleTimeControl1']
+				</basepath>
+			</folder>
+			<basepath>
+				/form[@controlname='TimeMarkerForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAqlJREFUOE+VkW9IE3EYx29zt5ttaplamct/M6dDM1uozRL/FL4IJYJC
+0JCKakQvgsB6oYSpkAX+IyTUIAlmohvoVUxYpiwhHQhGBJETRgpFwjIjtW3fnrtbjpBedPDh+d3z
+fH+f+90do2bUcXou6uJ+RaT5v1HtMDHCZlfccczElmFWdwozMaWY2fkPoktoXgZXLOVp3ReTN8Lo
+yDQVXYzFDgt+LX+D+2YXnBFH4Yw8toXp1Ep4J1z4OjKB1/Sg7igjTwKNeSK2FKvv5hEIBLD63o1X
+mkKMb2IS60v1EXg6LWLGt7KKqYzT6Io6yDPJJBiLMMHTZ5OGP35iPOUk7NsKJGijUGfP1sG/vkEZ
+PzyPbNTLR1tkjiR4pinAVLk5GAjAVVWHUVUe+HBClY/J/GpseL8j4PdjyeqAPeEERmnWqsmWBDay
+DXNGeOc+iAJ3rxXDykOwcoepGvHJ5qA+8GXSJfWVUr9FncUziSR4qjLCosjF3J1uUbDy0YPB7QUY
+oN70lUb41jawtuzFmKkGFjYXA0EawzNJINeYn5C1X54DW0aFKBCO6qi8hqGUcvHet7aO58W1lDmA
+x4SQFWjgMiRBH5uDHlkWesOy4LE7xeMujr/B245+UeAesouzHnl2CMrf4tJ5RisPN3crsvFAZiAy
+MVRYJZ7A7/PBJ3xUWluLqsVZCCFrwA1WJwk6FZlol6WLdKgM8M57pFchFl5MolNpQJtMv5n5w3U2
+lWfiSXA/LB2tjI5Iw10mFQsOJ4RLEDzUlwRnW7nKJkmCFoUOTUwymokmWZIoEDavLH1Gc1iKOGti
+koI1xGU2kWd2yznzbUUyGph9m9zT0m89cwnt+qJgT4t6qvVi1W72LrAJPBOjVKbVcHsHa9l4PsQe
+/hzxd0/qS0jrCm7X+d/iqhKeFOPHWgAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		capname="list"
+		id="4103433e-da66-45e5-9803-87f1ff60b352"
+		isrooted="True"
+		name="List1000"
+		refpath="/list[@controlid='1000']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="listitem,nativeitem,checkable"
+			capname="listitem"
+			id="352db831-b6bd-4f96-a923-83280a9f8606"
+			name="TimeMarker1"
+			refimgid="e2f1abff-b6a5-49b4-bc76-ea868c1d36a7"
+			refpath="/list[@controlid='1000']/listitem[@text='Time Marker 1']"
+			robustPath="listitem[@text='Time Marker 1']"
+			searchtimeout="30000ms">
+				/list[@controlid='1000']/listitem[@text='Time Marker 1']
+			</item>
+			<item
+			addcaps="listitem,nativeitem,checkable"
+			capname="listitem"
+			id="a33695b7-53d3-404a-b296-68c5b1ce9173"
+			name="ListItemF0"
+			refimgid="41d6b1a3-733b-4c60-935d-e29e939dcfc7"
+			refpath="/list[@controlid='1000']/listitem[@text='F0']"
+			robustPath="listitem[@text='F0']"
+			searchtimeout="30000ms">
+				/list[@controlid='1000']/listitem[@text='F0']
+			</item>
+			<item
+			addcaps="listitem,nativeitem,checkable"
+			capname="listitem"
+			id="8c4cdaf4-8940-45f8-9875-a0a87d07c325"
+			name="StartHoldingTime"
+			refimgid="a10d0574-3074-4007-82b0-0d91c18c3530"
+			refpath="/list[@controlid='1000']/listitem[@text='Start Holding Time ']"
+			robustPath="listitem[@text='Start Holding Time ']"
+			searchtimeout="30000ms">
+				/list[@controlid='1000']/listitem[@text='Start Holding Time ']
+			</item>
+			<item
+			addcaps="listitem,nativeitem,checkable"
+			capname="listitem"
+			id="7c6fadee-4e09-40ce-ba62-2d9d738c3cf9"
+			name="EndedHoldingTime2"
+			refimgid="1f640d39-46b3-41c4-a65b-9d9dd95f5886"
+			refpath="/list[@controlid='1000']/listitem[@text='Ended Holding Time 2']"
+			robustPath="listitem[@text='Ended Holding Time 2']"
+			searchtimeout="30000ms">
+				/list[@controlid='1000']/listitem[@text='Ended Holding Time 2']
+			</item>
+			<basepath>
+				/list[@controlid='1000']
+			</basepath>
+			<icon>
+				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
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

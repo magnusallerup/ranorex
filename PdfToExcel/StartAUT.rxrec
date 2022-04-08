@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="a4ce3a5b-1954-4e1b-983d-61c7857535d3"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="PdfToExcel">
+	</codegen>
+	<variables>
+		<var
+		id="e71cff50-4e08-4e3c-aede-2e1db6ea48cd"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="81b0464e-4e87-4930-b0cd-1f097838dbb0"
+	name="PdfToExcelRepository"
+	relativepath="PdfToExcelRepository.rxrep">
+		<codegen
+		classname="PdfToExcelRepository"
+		namespace="PdfToExcel">
+		</codegen>
+		<rootfolder
+		id="207a2ed4-92f0-4780-8df2-67ee37351944"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

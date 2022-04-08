@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="PdfToExcel"
+      id="dd68b030-c490-4808-a6de-4542627d1d2e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="PdfToExcel"
+      id="dd68b030-c490-4808-a6de-4542627d1d2e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
